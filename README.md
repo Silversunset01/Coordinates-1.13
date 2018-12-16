@@ -1,12 +1,9 @@
 # Coordinates-1.13
 ![Coordinates-1.13](https://i.imgur.com/OPXBsLO.png)
 
-A Datapack for 1.13 to show coords in the action bar. Direction is a WIP.
+A Datapack for 1.13 to show player coordinates and direction in the action bar.
 
 To Install 
-- drag the 'coordinates' folder into the 'datapacks' folder in your world then load the world
-- type `/function coords:install`  
-
-To uninstall 
-- type `/function coords:uninstall`
+- drag the 'compass' folder into the 'datapacks' folder in your world then load the world
+- the datapack will install automatically on world load
 
