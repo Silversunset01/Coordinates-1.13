@@ -1,6 +1,6 @@
-execute as @a store result score @s compass_x run data get entity @s Pos[1]
-execute as @a store result score @s compass_y run data get entity @s Pos[2]
-execute as @a store result score @s compass_z run data get entity @s Pos[3]
+execute as @a store result score @s compass_x run data get entity @s Pos[0]
+execute as @a store result score @s compass_y run data get entity @s Pos[1]
+execute as @a store result score @s compass_z run data get entity @s Pos[2]
 execute as @a store result score @s compass_angle run data get entity @s Rotation[0]
 
 #
